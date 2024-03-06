@@ -1,0 +1,2 @@
+Compilation error for invalid.c
+
